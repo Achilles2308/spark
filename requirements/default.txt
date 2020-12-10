@@ -1,2 +1,6 @@
 pyspark
 pyspark[sql,ml,mllib]
+
+flake8
+black
+isort
